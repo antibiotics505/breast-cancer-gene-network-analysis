@@ -4,8 +4,6 @@
 
 Graph-based analysis of breast cancer gene expression data to identify hub genes and communities using NetworkX.
 
----
-
 ![Gene Network](result.jpg)
 
 ---
