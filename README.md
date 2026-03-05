@@ -1,8 +1,12 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-# Breast Cancer Gene Co-Expression Network Analysis
+## Breast Cancer Gene Co-Expression Network Analysis
 
-Graph-based analysis of breast cancer gene expression data to identify hub genes and communities using NetworkX.
+Graph-based analysis of breast cancer gene expression data to identify hub genes and communities using NetworkX.、
+
+---
+
+![Gene Network](result.jpg)
 
 ---
 
@@ -20,11 +24,6 @@ The project demonstrates how **network science and data analysis techniques** ca
 
 ---
 
-# Breast Cancer Gene Co-Expression Network Analysis
-
-![Gene Network](result.jpg)
-
----
 
 ## Technologies Used
 
