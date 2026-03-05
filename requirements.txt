@@ -1,0 +1,13 @@
+#CSC111 Winter 2025, Project 2 - Kalan Subieta, Jun Z, Kahn Shah, Muzhe Xu.
+
+#Library Requirements:
+
+python-ta~=2.9.1
+pandas
+numpy
+matplotlib
+networkx
+statistics
+plotly
+scipy
+nbformat~=4.2.0
