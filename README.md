@@ -20,6 +20,12 @@ The project demonstrates how **network science and data analysis techniques** ca
 
 ---
 
+# Breast Cancer Gene Co-Expression Network Analysis
+
+![Gene Network](result.jpg)
+
+---
+
 ## Technologies Used
 
 - Python
@@ -61,7 +67,7 @@ pip install -r requirements.txt
 Open the Jupyter Notebook:
 
 ```bash
-pip install -r requirements.txt
+jupyter notebook project.ipynb
 ```
 
 Run all cells to reproduce the analysis and visualization.
@@ -94,17 +100,6 @@ The analysis pipeline includes the following steps:
 7. **Network Visualization**
    - The gene network is visualized using graph layout algorithms
 
----
-
-## Example Network Visualization
-
-Below is an example of the generated gene co-expression network.
-
-- Each node represents a gene
-- Edges represent strong expression correlations
-- Colors represent detected communities
-
-![Gene Network](result.jpg)
 
 ---
 
