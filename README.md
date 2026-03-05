@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 # Breast Cancer Gene Co-Expression Network Analysis
 
 Graph-based analysis of breast cancer gene expression data to identify hub genes and communities using NetworkX.
@@ -47,8 +49,8 @@ breast-cancer-gene-network-analysis
 ## Installation
 
 Install required Python packages:
-
-```
+    
+```bash
 pip install -r requirements.txt
 ```
 
@@ -58,8 +60,8 @@ pip install -r requirements.txt
 
 Open the Jupyter Notebook:
 
-```
-jupyter notebook project.ipynb
+```bash
+pip install -r requirements.txt
 ```
 
 Run all cells to reproduce the analysis and visualization.
