@@ -32,7 +32,7 @@ The project demonstrates how **network science and data analysis techniques** ca
 
 ## Project Structure
 
-
+```
 breast-cancer-gene-network-analysis
 │
 ├── README.md
@@ -40,7 +40,7 @@ breast-cancer-gene-network-analysis
 ├── project.ipynb
 ├── result.jpg
 └── project_report.pdf
-
+```
 
 ---
 
@@ -48,9 +48,9 @@ breast-cancer-gene-network-analysis
 
 Install required Python packages:
 
-
+```
 pip install -r requirements.txt
-
+```
 
 ---
 
@@ -58,9 +58,9 @@ pip install -r requirements.txt
 
 Open the Jupyter Notebook:
 
-
+```
 jupyter notebook project.ipynb
-
+```
 
 Run all cells to reproduce the analysis and visualization.
 
