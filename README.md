@@ -2,7 +2,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 # Breast Cancer Gene Co-Expression Network Analysis
 
-Graph-based analysis of breast cancer gene expression data to identify hub genes and communities using NetworkX.、
+Graph-based analysis of breast cancer gene expression data to identify hub genes and communities using NetworkX.
 
 ---
 
